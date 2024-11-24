@@ -70,4 +70,11 @@ function reiniciarJogo() {
 
 // Para que possamos realizar o controle de versão de um projeto, registrando as mudanças realizadas nele ao longo do tempo, devemos, primeiramente, transformar o diretório do projeto em um repositório Git. O comando git init é utilizado para esse objetivo, devendo ser executado apenas uma vez. Quando executado, ele configura o diretório atual para ser rastreado pelo Git, inicializando um repositório vazio.
 
-
+//…or create a new repository on the command line
+// echo "# novo" >> README.md
+// git init
+// git add README.md
+// git commit -m "first commit"
+// git branch -M main
+// git remote add origin git@github.com:AlSuzart/novo.git
+// git push -u origin main
