@@ -78,3 +78,8 @@ function reiniciarJogo() {
 // git branch -M main
 // git remote add origin git@github.com:AlSuzart/novo.git
 // git push -u origin main
+
+//clonar repositorio de outro dev para colaborar e depois
+//git clone no terminal colando o q foi copiado no github
+//para baixar commits feitos por outros dev colaboradores
+//executar no terminal do vs git pull origin main
