@@ -83,3 +83,13 @@ function reiniciarJogo() {
 //git clone no terminal colando o q foi copiado no github
 //para baixar commits feitos por outros dev colaboradores
 //executar no terminal do vs git pull origin main
+
+//git revert no terminal do vc para desfazer um commit (usar git log e 
+//escolher qual desfazer pela ID
+
+//git reset para apagar um commit que não foi enviado para o github
+
+
+//.gitignore = criar esse arquivo para ignorar o que não deve subir para
+//o github
+
